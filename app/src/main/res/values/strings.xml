@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Pep it!</string>
+    <string name="app_name_oficial">UTALREACT!</string>
+    <string name="app_author">Ignacio, iveas20@alumnos.utalca.cl</string>
+    <!-- About -->
+    <string name="app_descripotion">Este proyecto piloto busca evaluar cuanta
+        factibilidad hay para poder desarrollar dentro de un dispositivo Android
+        una aplicacion que implemente un juego de reacciones, o sea un juego donde el
+        telefono indica algo y el jugador en un tiempo muy corto de reacción debe hacer
+        lo solicitado en pantalla, una vez acertado, seguir avanzando y cada cierto
+        tiempo disminuir el tiempo de reaccion</string>
+    <string name="app_descrp_title">Sobre la aplicacion</string>
+    <!-- Instructions -->
+    <string name="app_instruction">¡Mira la pantalla! ahí verás la acción de lo 
+        que deberás realizar, ¡Agitar!, ¡Gritar!, ¡Cortar!, son solo algunas de 
+        las diversas actividades que tendrás que realizar con tu telefono, eso si, 
+        intenta no demorarte, ya que si se te acaba el tiempo…¡ GAME OVER ! y tendrás 
+        que partir denuevo. ¡ Intenta conseguir el puntaje más alto durando más que todos !</string>
+    <string name="app_instrc_title">¿Como jugar?</string>
+    <!-- Settings -->
+    <string name="app_ajustes">Preferencias</string>
+    <string name="app_preferencia1">Preferencia 1</string>
+    <string name="app_preferencia2">Preferencia 2</string>
+    <string name="app_preferencia3">Preferencia 3</string>
+    <string name="app_preferencia4">Preferencia 4</string>
+    <!-- records -->
+    <string name="app_records">Records</string>
+    <string name="app_record1">___</string><string name="app_record2">___</string>
+    <string name="app_record3">___</string><string name="app_record4">___</string>
+    <string name="app_record0">___</string><string name="app_recordEmpty"></string>
+
+
+
+    <!-- Bottons Titles -->
+    <string name="botton_start">¡ VAMOS !</string>
+    <string name="botton_htplay"> Instrucciones </string>
+
+    <!-- Icon or Images Titles -->
+    <string name="icon_list"> Ajustes </string>
+    <string name="icon_info"> Ajustes </string>
+    <string name="icon_setting"> Ajustes </string>
+    <string name="Background1"> Ajustes </string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails</string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+
+    <!-- Splash Preferences -->
+    <string name="splash_title">Duración Inicio</string>
+    <string name="splash_description">Duracion de la pantalla de presentación</string>
+
+</resources>
